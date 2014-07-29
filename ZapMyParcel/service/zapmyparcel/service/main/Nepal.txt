@@ -1,0 +1,84 @@
+      <div class="module">
+        <h5>About Nepal</h5>
+        <div class="mo_container">
+          <p>Nepal is a relatively small South Asian country, land-locked between the borders of China and India. 
+            It is a diverse country which offers many opportunities and sights for tourists. The Himalaya mountain range passes through Nepal, which contains 8 of the world's 10 tallest mountains, including Mount Everest.</p>
+          <p>Currently, Nepal's main export partners are the USA and India, which leaves an untouched market for British businesses to become involved in. Nepal's main exports include leather and carpets, and its main imports include oil, machinery and gold.</p>
+          <p>The distribution of wealth in Nepal is similar to that of a developing country and it receives regular foreign aid from the UK, amongst other countries. Whether you are expanding your business to the Nepalese market, or sending goods for charity purposes, then Urban Drop can find you the best parcel delivery option available, by using one of the world's most reputable courier companies. We work with couriers such as FedEx, Parcel Force and DHL to name a few, to ensure that you are provided with the most direct and convenient service. We will compare all the timescales and prices available for you and then oversee the entire delivery process from door to door.</p>
+          <p>Some items are forbidden from international export, such as flammable materials, guns and explosives, so we recommend that you read the following prohibited items list carefully. </p>
+          <p>Nepal is located over 4,500 miles from the UK, which can take up to 10 hours on a plane, in addition to an overland journey to reach its final destination. For such a long-haul journey you should package your items appropriately. Perhaps a cardboard box would protect any larger items, and padding such as bubble wrap would shield anything fragile. You should clearly write the destination address on the front of your parcel to make sure that there is no confusion along the way, and you should also include a return address on the back. Because Nepal is outside of the European Union, you will probably need to fill out a customs declaration form and attach it to the front of your parcel.</p>
+          <p>Nepal became a member of the UPU (Universal Postal Union) in 1956, which aims to maintain international standards in the exchange of postal-related information between its members. When using International postal services, parcels can sometimes be delayed or even misplaced, which is why it is recommended that you use a trusted international delivery company to safely deliver your goods.</p>
+          <strong><p>Sending internationally with Zap My Parcel is quick, reliable and low cost.</p>
+<p>With our years of experience in parcel delivery we are not only the best choice on the market but also the most reliable.</p>
+<p>Here at Zap My Parcel we use reliable international courier companies that can do everything from small envelope international deliveries to large bulky items, we can do from an A4 envelope size at 0.5kg to 1kg, 5kg, 10kg 15kg, 20kg, 25kg and even above!</p>
+<p>A few quick things to remember when sending a parcel internationally is to make sure the content of your parcel adheres to our prohibited and restricted items list, that you have correctly filled out, printed all forms and labels needed and you have made sure you check for any customs charges, restrictions or surcharges that may apply to this country. </p>
+<p>If this is not properly attended to it may cause a delay in the arrival of your parcel.</p> </strong>
+
+        </div>
+      </div>
+      <br class="seperator_break">
+      <div class="module">
+        <h5>Cities in Nepal</h5>
+        <div class="mo_container">
+          <ul class="list">
+            <li>Amaragadhi</li>
+            <li>Baglung</li>
+            <li>Banepa</li>
+            <li>Bhadrapur</li>
+            <li>Bhaktapur</li>
+            <li>Bharatpur</li>
+            <li>Bhim Dutta</li>
+            <li>Bhimeshwar</li>
+            <li>Bidur</li>
+            <li>Biratnagar</li>
+            <li>Birendranagar</li>
+            <li>Birganj</li>
+            <li>Butwal</li>
+            <li>Byas</li>
+            <li>Damak</li>
+            <li>Dasharathchand</li>
+            <li>Dhangadhi</li>
+            <li>Dhankuta</li>
+            <li>Dharan</li>
+            <li>Dhulikhel</li>
+            <li>Dipayal-Silgadhi</li>
+            <li>Gaur</li>
+            <li>Ghorahi</li>
+            <li>Gorkha</li>
+            <li>Gulariya</li>
+            <li>Hetauda</li>
+            <li>Ilam</li>
+            <li>Inaruwa</li>
+            <li>Itahari</li>
+            <li>Jaleswar</li>
+            <li>Janakpur</li>
+            <li>Kalaiya</li>
+            <li>Kamalamai</li>
+            <li>Kapilvastu</li>
+            <li>Kathmandu</li>
+            <li>Khandbari</li>
+            <li>Kirtipur</li>
+            <li>Lahan</li>
+            <li>Lalitpur</li>
+            <li>Lekhnath</li>
+            <li>Madhyapur Thimi</li>
+            <li>Malangwa</li>
+            <li>Mechinagar</li>
+            <li>Narayan</li>
+            <li>Nepalganj</li>
+            <li>Panauti</li>
+            <li>Pokhara</li>
+            <li>Putalibazar</li>
+            <li>Rajbiraj</li>
+            <li>Ramgram</li>
+            <li>Ratnanagar</li>
+            <li>Siddharthanagar</li>
+            <li>Siraha</li>
+            <li>Tansen</li>
+            <li>Tikapur</li>
+            <li>Triyuga</li>
+            <li>Tulsipur</li>
+            <li>Waling</li>
+          </ul>
+        </div>
+      </div>

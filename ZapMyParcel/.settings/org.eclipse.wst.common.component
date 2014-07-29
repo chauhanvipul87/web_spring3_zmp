@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="IFS">
+        <wb-resource deploy-path="/" source-path="/WebContent"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/dao"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/domain"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/service"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/controller"/>
+        <property name="java-output-path" value="/IFS/build/classes"/>
+        <property name="context-root" value="ZapMyParcel"/>
+    </wb-module>
+</project-modules>

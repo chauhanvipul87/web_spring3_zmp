@@ -1,0 +1,15 @@
+<div class="module">
+        <h5>UK - Mainland</h5>
+        <div class="mo_container">
+          <p>The United Kingdom of Great Britain and Northern Ireland (commonly known as the United Kingdom, the UK or Britain) is a sovereign state located off the north-western coast of continental Europe. The country includes the island of Great Britain, the north-eastern part of the island of Ireland and many smaller islands. Northern Ireland is the only part of the UK that shares a land border with another sovereign state-the Republic of Ireland. Apart from this land border the UK is surrounded by the Atlantic Ocean, the North Sea, the English Channel and the Irish Sea.</p>
+        </div>
+      </div>
+
+<br class="seperator_break">
+
+<div class="module">
+        <h5>UK - OffShore</h5>
+        <div class="mo_container">
+          <p>Canada is the second largest country in the world after Russia, covering almost 10 million square kilometres of land area. It is estimated that Canada has been inhabited by humans for around 26,000 years. It is now listed as the worlds 6th most highly developed country by the UN Human Development Index and is currently one of the world's top trading nations. Approximately 75% of Canada's workforce is employed in the tertiary sector of the economy (also known as the service industry) and it has a diverse, mixed economy, which relies heavily on foreign trade. The UK is actually one of the largest importers of Canadian goods, along with the USA and China. It has a plentiful supply of natural products to use and sell, such as oil, gold and gas, amongst many others. </p>
+        </div>
+      </div>

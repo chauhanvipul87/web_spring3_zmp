@@ -1,0 +1,38 @@
+      <div class="module">
+        <h5>About New Zealand</h5>
+        <div class="mo_container">
+          <p>New Zealand, also known as "the land of the long white cloud", is around 11,600 miles from the UK, and is inhabited mainly by European descendants. New Zealand was one of the final significant land-masses to be discovered and settled by humans. In 1842 New Zealand became classified as a colony of the British Empire after Maori chiefs signed the Treaty of Waitangi. This resulted in an increased number of immigrants moving to New Zealand, from all over the world.</p>
+          <p>New Zealand is well known for its wild and mountainous landscapes, volcanic features, scenic beaches, lakes and glaciers, and is one of the most unpopulated countries on earth. It's situated about 900 miles off the coast of Australia, in the South-West Pacific Ocean. The islands remoteness has led, over time, to a unique variety of plant and animal life, such as its national treasure: the flightless Kiwi bird. New Zealand made up of 2 main islands, the North Island and the South Island, separated by the Cook Straight.</p>
+          <p>New Zealand is still a popular destination with British tourists and emigrants and so there's a high demand for reliable, fast, international parcel delivery services between the 2 countries. Despite its remoteness, posting a package to New Zealand today can be a simple and hassle-free task. Whether you're sending a large parcel of Christmas presents to an old friend, or letters and photos to a long-lost relative, there's a huge choice of courier services for you to choose from. Deciding which company is best suited for your needs can be confusing and time-consuming and so Urban Drop is here to compare these delivery services for you. We work with many of the world's most reputable courier services, such as Parcel Force, DHL, UPS, DPD and UPS, to find you the best price and timeline available.</p>
+          <p>When sending a parcel on a long-haul journey, you should be sure to wrap it carefully and securely to avoid any unnecessary damage and cushion any fragile items with materials such as bubble wrap or polystyrene. Once your parcel has been collected from your chosen UK address you can rest-assured that it will be delivered safely to its final destination, as fast as possible. Some items are prohibited from being delivered internationally and so we recommend that you read the following prohibited items list carefully to avoid any confusion or disappointment. For international delivery you will need to complete a customs declaration form, which helps the customs department to check that there are no prohibited items entering the country.</p>
+          <strong><p>Sending internationally with Zap My Parcel is quick, reliable and low cost.</p>
+<p>With our years of experience in parcel delivery we are not only the best choice on the market but also the most reliable.</p>
+<p>Here at Zap My Parcel we use reliable international courier companies that can do everything from small envelope international deliveries to large bulky items, we can do from an A4 envelope size at 0.5kg to 1kg, 5kg, 10kg 15kg, 20kg, 25kg and even above!</p>
+<p>A few quick things to remember when sending a parcel internationally is to make sure the content of your parcel adheres to our prohibited and restricted items list, that you have correctly filled out, printed all forms and labels needed and you have made sure you check for any customs charges, restrictions or surcharges that may apply to this country. </p>
+<p>If this is not properly attended to it may cause a delay in the arrival of your parcel.</p> </strong>
+
+        </div>
+      </div>
+      <br class="seperator_break">
+      <div class="module">
+        <h5>Cities in New Zealand</h5>
+        <div class="mo_container">
+          <ul class="list">
+            <li>Auckland</li>
+            <li>Christchurch</li>
+            <li>Wellington</li>
+            <li>Hamilton</li>
+            <li>Napier </li>
+            <li>Tauranga</li>
+            <li>Dunedin</li>
+            <li>Palmerston North</li>
+            <li>Nelson</li>
+            <li>Rotorua</li>
+            <li>New Plymouth</li>
+            <li>Whangarei</li>
+            <li>Invercargill</li>
+            <li>Whanganui</li>
+            <li>Gisborne</li>
+          </ul>
+        </div>
+      </div>

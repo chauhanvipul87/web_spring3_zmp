@@ -1,0 +1,56 @@
+      <div class="module">
+        <h5>About Maldives</h5>
+        <div class="mo_container">
+          <p>The Maldives are a cluster of 26 atolls (coral islands) located in the Indian Ocean, approximately 250 miles off the South-West of India and 430 miles from the coast in India.</p>
+          <p>In 1989 the Maldivian government commenced a program of economic reform, by implementing measures such as allowing more foreign investments, imports and exports. Today, the Maldives primary industry sector is tourism, followed by fishing. Currently, import duties and tourism related taxes actually account for more than 90% of governments total tax revenue.</p>
+          <p>If you need to send a business consignment package to the Maldives, or a small personal item, then Urban Drop will find you the best parcel delivery option available. We will compare the world's leading courier companies, such as DHL, UPS and Parcel Force, to source you the fastest and most convenient delivery option, while saving you the time and hassle of trawling through the individual websites yourself. Urban Drop will then oversee the whole delivery process from door to door.</p>
+          <p>From the UK your mail will have to travel over 5000 miles to the Maldives, most likely by a combination of land, air and sea transport. You should therefore package your items appropriately and surround any breakable goods with padding, such as bubble wrap or polystyrene. You should clearly label your parcel and include a return address on the rear. Because you will be sending mail out with the European Union's customs territory, you will need to fill out and attach a customs declaration form to the front of your parcel. Some items are actually forbidden from being couriered internationally, e.g. flammable materials, aerosols and explosives, therefore, you should read the following prohibited items list carefully before posting your goods.</p>
+          <p>The Maldives Post is the national postal service used throughout the islands; it was introduced in 1906 and by 1994 every inhabited island was home to a post office. Although reliable, national postal services have been known to misplace or delay some mail items. If you chose Urban Drop to organise the delivery of your goods, you can rest assured that they will be safely delivered, on schedule.</p>
+          <p>If you have a strict delivery timeline for your parcel then it is recommended that you take into account any public holidays, both of the UK and the Maldives, as they may result in an extra day on the delivery schedule. The Maldives enjoy holidays such as "Mawlid al-Nabi" (Birth of the Prophet) on the 4th February, "The Day Maldives Embraced Islam" on 29th March and "Eid al-Adha" (Feast of the Sacrifice) on 26th October, to name a few.</p>
+          
+          <strong><p>Sending internationally with Zap My Parcel is quick, reliable and low cost.</p>
+<p>With our years of experience in parcel delivery we are not only the best choice on the market but also the most reliable.</p>
+<p>Here at Zap My Parcel we use reliable international courier companies that can do everything from small envelope international deliveries to large bulky items, we can do from an A4 envelope size at 0.5kg to 1kg, 5kg, 10kg 15kg, 20kg, 25kg and even above!</p>
+<p>A few quick things to remember when sending a parcel internationally is to make sure the content of your parcel adheres to our prohibited and restricted items list, that you have correctly filled out, printed all forms and labels needed and you have made sure you check for any customs charges, restrictions or surcharges that may apply to this country. </p>
+<p>If this is not properly attended to it may cause a delay in the arrival of your parcel.</p> </strong>
+
+
+        </div>
+      </div>
+      <br class="seperator_break">
+      <div class="module">
+        <h5>Cities in  Maldives</h5>
+        <div class="mo_container">
+          <ul class="list">
+            <li>Dhidhdhoo</li>
+            <li>Kulhudhuffushi</li>
+            <li>Eydhafushi</li>
+            <li>Farukolhufunadhoo</li>
+            <li>Felidhoo</li>
+            <li>Funadhoo</li>
+            <li>Fuvahmulah</li>
+            <li>Gan</li>
+            <li>Hinnavaru</li>
+            <li>Hithadhoo</li>
+            <li>Hulhumalé</li>
+            <li>Hulhumeedhoo</li>
+            <li>Kudahuvadhoo</li>
+            <li>Kulhudhuffushi</li>
+            <li>Magoodhoo</li>
+            <li>Mahibadhoo</li>
+            <li>Malé - Capital</li>
+            <li>Manadhoo</li>
+            <li>Maroshi</li>
+            <li>Midu</li>
+            <li>Mula</li>
+            <li>Naifaru</li>
+            <li>Nolhivaranfaru</li>
+            <li>Thinadhoo</li>
+            <li>Ungoofaaru</li>
+            <li>Veymandhoo</li>
+            <li>Veymandoo</li>
+            <li>Viligili</li>
+            <li>Villingili</li>
+          </ul>
+        </div>
+      </div>

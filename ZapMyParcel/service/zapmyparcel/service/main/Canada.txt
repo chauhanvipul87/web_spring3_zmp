@@ -1,0 +1,34 @@
+ <div class="module">
+        <h5>About Canada</h5>
+        <div class="mo_container">
+          <p>Canada is the second largest country in the world after Russia, covering almost 10 million square kilometres of land area. It is estimated that Canada has been inhabited by humans for around 26,000 years. It is now listed as the worlds 6th most highly developed country by the UN Human Development Index and is currently one of the world's top trading nations. Approximately 75% of Canada's workforce is employed in the tertiary sector of the economy (also known as the service industry) and it has a diverse, mixed economy, which relies heavily on foreign trade. The UK is actually one of the largest importers of Canadian goods, along with the USA and China. It has a plentiful supply of natural products to use and sell, such as oil, gold and gas, amongst many others. </p>
+          <p>Canada is a popular destination for British holiday-makers and emigrants, due to its highly developed economy, beautiful scenery and healthy, outdoor lifestyle. You might therefore need to send a parcel to Canada to your friends or relatives who live there, or, you might need to send goods of varying size for business purposes. Whatever your needs, Urban Drop will find you the best parcel delivery option available, by searching and comparing the world's most reputable courier companies e.g. UPS, Parcel Force and FedEx, to name a few. We will then oversee the entire delivery process to make sure that your package is delivered to its final destination, safely and on time.</p>
+          <p>Canada is a vast country and so your package may need to travel on several plane journeys and overland transits to reach its ultimate address. There are many parts of Canada that are rather remote and difficult to reach. You should therefore make sure that your items are carefully packaged to avoid any unnecessary damage along the way e.g. use a strong cardboard box with padding inside, such as bubble wrap.</p>
+          <p>You should clearly label your parcel with the full address so that it reaches its correct destination without any confusion and you should also include a return address on the back. You will need to complete a customs declaration form (either a CN22 or CN23 form), as Canada is outside the European Union. You can get these forms online or at your local post office. Some items are restricted from entering Canada, such as meat and poultry, manmade fibres sourced from out with the free trade area and carbon steel products. You can read the following prohibited items list for a comprehensive catalogue of all restricted items.</p>
+          <p>It is a good idea to bear in mind any public holidays when posting urgent packages, both in the UK and in Canada, as they can cause a slight delay in the delivery schedule. Some examples of Canada's holidays include Victoria Day (the Monday on or before the 24th of May), Canada Day/Memorial Day (1st of July) and Thanksgiving (the second Monday in October).</p>
+          <strong>
+          <p>Sending internationally with Zap My Parcel is quick, reliable and low cost.</p>
+          <p>With our years of experience in parcel delivery we are not only the best choice on the market but also the most reliable.</p>
+          <p>Here at Zap My Parcel we use reliable international courier companies that can do everything from small envelope international deliveries to large bulky items, we can do from an A4 envelope size at 0.5kg to 1kg, 5kg, 10kg 15kg, 20kg, 25kg and even above!</p>
+          <p>A few quick things to remember when sending a parcel internationally is to make sure the content of your parcel adheres to our prohibited and restricted items list, that you have correctly filled out, printed all forms and labels needed and you have made sure you check for any customs charges, restrictions or surcharges that may apply to this country. </p>
+          <p>If this is not properly attended to it may cause a delay in the arrival of your parcel.</p>
+          </strong> </div>
+      </div>
+      <br class="seperator_break">
+      <div class="module">
+        <h5>Cities in Canada</h5>
+        <div class="mo_container">
+          <ul class="list">
+            <li>Airdrie</li>
+            <li>Brooks</li>
+            <li>Calgary</li>
+            <li>Camrose</li>
+            <li>Cold Lake</li>
+            <li>Edmonton</li>
+            <li>Fort Saskatchewan</li>
+            <li>Grande Prairie</li>
+            <li>Lacombe</li>
+            <li>Leduc</li>
+          </ul>
+        </div>
+      </div>

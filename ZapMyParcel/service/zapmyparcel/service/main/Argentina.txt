@@ -1,0 +1,149 @@
+      <div class="module">
+        <h5>About Argentina</h5>
+        <div class="mo_container">
+          <p>Argentina is the 2nd largest country in South America and the 8th largest in the world, and is home to over 40,000,000 people. Argentina has a flourishing economy and within Latin-America it has the highest purchasing power parity along with a high level of foreign investments and success in international exports.</p>
+          <p>There is a strong trading relationship between Argentina and the UK; the UK is actually one of its largest foreign investors. Argentina is active in many industry sectors, some of which include agricultural products, machinery, vehicles and food and drinks. You may have the need to send a large shipment of goods to Argentina for business purposes, or you may want to send smaller personal items. Many British people have moved to Argentina to work or to set up their own businesses and so you may have family or friends currently living there. Whatever your parcel delivery needs, Urban Drop will look for the best courier service available for you. We will compare some of the world's most trusted courier companies, such as DHL, Parcel Force and FedEx, to establish what the quickest and most convenient parcel delivery option is.</p>
+          <p>Argentina is located approximately 7000 miles from the UK, which can take up to 15 hours on a plane. In addition, your package will most likely need to travel on several overland journeys in order to reach its final destination. Therefore, it's important that you package your goods appropriately, to avoid any unnecessary damage along the way. We recommend that you wrap your items in padding, such as bubble wrap, and enclose them in a durable container, such as a cardboard box. You should clearly write the destination address on the front to avoid any delays and you should also include a return address on the back. You should check the Argentina postal codes before addressing your parcel; the format consists of 1 letter (to identify the province), followed by a 4 digit number (showing the municipality) and lastly 3 additional letters (identifying a side of the block). If you have the correct postal code then the province name is not a necessity. </p>
+          <p>Because Argentina is out with Europe's customs zone, you will need to fill out a customs declaration form (CN22 or CN23) and attach it to the front of your parcel. This is to make sure that your shipment doesn't include any forbidden items and so get delayed at the border control. For your information, here is a prohibited items list for you to read.</p>
+          <p>When sending your goods with Urban Drop you can rest-assured that they will be picked up from your chosen UK address and delivered safely to their final destination, on schedule. We oversee the entire delivery process and therefore take away any worries that you may have when sending your items with the national postal service. Correo Argentino is Argentina's largest national postal service, followed by a number of smaller regional services. Although Correo Argentino is a reliable institution, packages can occasionally be misplaced or delayed, which is why the most reliable delivery option is to use an internationally trusted courier company.</p>
+          
+          <strong><p>Sending internationally with Zap My Parcel is quick, reliable and low cost.</p>
+<p>With our years of experience in parcel delivery we are not only the best choice on the market but also the most reliable.</p>
+<p>Here at Zap My Parcel we use reliable international courier companies that can do everything from small envelope international deliveries to large bulky items, we can do from an A4 envelope size at 0.5kg to 1kg, 5kg, 10kg 15kg, 20kg, 25kg and even above!</p>
+<p>A few quick things to remember when sending a parcel internationally is to make sure the content of your parcel adheres to our prohibited and restricted items list, that you have correctly filled out, printed all forms and labels needed and you have made sure you check for any customs charges, restrictions or surcharges that may apply to this country. </p>
+<p>If this is not properly attended to it may cause a delay in the arrival of your parcel.</p> </strong>
+
+
+        </div>
+      </div>
+      <br class="seperator_break">
+      <div class="module">
+        <h5>Cities in  Argentina</h5>
+        <div class="mo_container">
+          <ul class="list">
+            <li>Moreno</li>
+            <li>Concordia</li>
+            <li>La Rioja</li>
+            <li>Río Cuarto </li>
+            <li>San Fernando del Valle de Catamarca </li>
+            <li>Comodoro Rivadavia </li>
+            <li>Isidro Casanova</li>
+            <li>Ituzaingo</li>
+            <li>San Nicolás de los Arroyos</li>
+            <li>Florencio Varela</li>
+            <li>San Juan </li>
+            <li>Lomas de Zamora</li>
+            <li>Temperley </li>
+            <li>Mendoza </li>
+            <li>Monte Grande </li>
+            <li>Bernal </li>
+            <li>San Justo</li>
+            <li>Castelar </li>
+            <li>San Rafael</li>
+            <li>Rafael Castillo</li>
+            <li>Trelew</li>
+            <li>Santa Rosa</li>
+            <li>Tandil</li>
+            <li>Libertad</li>
+            <li>Ramos Mejía</li>
+            <li>Villa Mercedes</li>
+            <li>La Banda</li>
+            <li>Trujui</li>
+            <li>Morón</li>
+            <li>Virrey del Pino</li>
+            <li>Caseros</li>
+            <li>San Carlos de Bariloche</li>
+            <li>Maipú</li>
+            <li>Zárate</li>
+            <li>Burzaco</li>
+            <li>Pergamino</li>
+            <li>Grand Bourg</li>
+            <li>Monte Chingolo</li>
+            <li>Olavarría</li>
+            <li>Rawson</li>
+            <li>Rafaela</li>
+            <li>Junín</li>
+            <li>Remedios de Escalada</li>
+            <li>La Tablada</li>
+            <li>Río Gallegos</li>
+            <li>Campana</li>
+            <li>Presidencia Roque Sáenz Peña</li>
+            <li>Rivadavia</li>
+            <li>Florida</li>
+            <li>Villa Madero</li>
+            <li>Olivos</li>
+            <li>Gualeguaychú </li>
+            <li>Villa Gobernador Gálvez </li>
+            <li>Villa Luzuriaga </li>
+            <li>Boulogne Sur Mer </li>
+            <li>Chimbas </li>
+            <li>Ciudadela </li>
+            <li>Luján de Cuyo </li>
+            <li>Ezpeleta </li>
+            <li>Villa María </li>
+            <li>General Roca </li>
+            <li>San Fernando </li>
+            <li>Ciudad Evita </li>
+            <li>Venado Tuerto </li>
+            <li>Bella Vista </li>
+            <li>Luján </li>
+            <li>San Ramón de la Nueva Orán </li>
+            <li>Cipolletti </li>
+            <li>Goya </li>
+            <li>Reconquista</li>
+            <li>Wilde </li>
+            <li>Martínez </li>
+            <li>Necochea </li>
+            <li>Don Torcuato </li>
+            <li>Banda del Río Salí</li>
+            <li>Concepción del Uruguay </li>
+            <li>General Rodríguez </li>
+            <li>Villa Tesei </li>
+            <li>Ciudad Jardín El Libertador </li>
+            <li>Villa Carlos Paz </li>
+            <li>Sarandí </li>
+            <li>Villa Elvira </li>
+            <li>Villa Domínico </li>
+            <li>Béccar </li>
+            <li>San Francisco</li>
+            <li>Glew </li>
+            <li>Puerto Madryn</li>
+            <li>Punta Alta </li>
+            <li>El Palomar </li>
+            <li>Rafael Calzada </li>
+            <li>Tartagal </li>
+            <li>San Pedro de Jujuy </li>
+            <li>Belén de Escobar </li>
+            <li>Los Hornos </li>
+            <li>Mariano Acosta </li>
+            <li>San Francisco Solano</li>
+            <li>Los Polvorines </li>
+            <li>Azul</li>
+            <li>Chivilcoy</li>
+            <li>Lomas del Mirador </li>
+            <li>Río Grande</li>
+            <li>Guernica</li>
+            <li>General Pico</li>
+            <li>Mercedes</li>
+            <li>Bosques</li>
+            <li>Oberá</li>
+            <li>Barranqueras</li>
+            <li>Yerba Buena/Marcos Paz</li>
+            <li>Villa Centenario</li>
+            <li>San Martín</li>
+            <li>Gobernador Julio A. Costa </li>
+            <li>William Morris </li>
+            <li>El Jagüel</li>
+            <li>Villa Mariano Moreno/El Colmenar</li>
+            <li>Eldorado</li>
+            <li>Longchamps</li>
+            <li>Clorinda</li>
+            <li>Viedma</li>
+            <li>Concepcion</li>
+            <li>Tres Arroyos</li>
+            <li>Ushuaia</li>
+            <li>San Isidro</li>
+            <li>Palpala</li>
+          </ul>
+        </div>
+      </div>

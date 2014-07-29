@@ -1,0 +1,162 @@
+      <div class="module">
+        <h5>About Slovakia</h5>
+        <div class="mo_container">
+          <p>Slovakia is a landlocked country in central Europe, which shares borders with Hungary, Poland, Ukraine, the Czech Republic and Austria. It's just less than 20,000 square miles in land area and is home to over 5 million people. Slovakia has an advanced, developed economy, with the most rapid growth rate in Europe. Its low tax-rates and wages make it very appealing to foreign investors. Slovakia's main export commodities are electrical goods and car manufacturers and it's currently the world's largest exporter of cars per person.</p>
+          <p>Slovakia is also popular with European tourists as it boasts medieval castles, mountains, ski resorts and beautiful natural landscapes. Whether you need to send a small package to Slovakia for personal reasons, or a larger consignment for business purposes, Urban Drop will find you the most convenient delivery option available. We work with the most reputable courier companies in the world, such as Parcel Force, Fed Ex and UPS. We will compare all of the available delivery timelines and costs to find the option best suited to your needs. We will then pick up your goods from your specified UK address and oversee the entire delivery process. You can rest assured that your package will arrive at its final destination safely and on time, without the worry that it might get delayed or lost with the national postal service.</p>
+          <p>You should clearly label your parcel with the full destination address, along with a return address on the back. There are a couple of things to note when sending mail to Slovakia: the name of the street should come before the house number, the shortened term for road is "ul" and for square is "nam" and the post codes are made up of 5 digits, the first of which is either 0 (for Eastern Slovakia), 8 (for Bratislava) or 9 (for Western Slovakia). In some small villages there are no post offices and so if possible the office of delivery should also be included in the address, which is the nearest larger town with a post office.</p>
+          <p>It's recommended that you package your items appropriately and surround anything breakable with padding, such as bubble wrap. It can take around 2 hours on a plane to travel from the UK to Slovakia and then your items will need to be transported further overland to reach their final delivery address. You should read the following prohibited items list to make sure that you're not sending any forbidden items, for example flammable materials or aerosols.</p>
+          
+          <strong><p>Sending internationally with Zap My Parcel is quick, reliable and low cost.</p>
+<p>With our years of experience in parcel delivery we are not only the best choice on the market but also the most reliable.</p>
+<p>Here at Zap My Parcel we use reliable international courier companies that can do everything from small envelope international deliveries to large bulky items, we can do from an A4 envelope size at 0.5kg to 1kg, 5kg, 10kg 15kg, 20kg, 25kg and even above!</p>
+<p>A few quick things to remember when sending a parcel internationally is to make sure the content of your parcel adheres to our prohibited and restricted items list, that you have correctly filled out, printed all forms and labels needed and you have made sure you check for any customs charges, restrictions or surcharges that may apply to this country. </p>
+<p>If this is not properly attended to it may cause a delay in the arrival of your parcel.</p> </strong>
+
+        </div>
+      </div>
+      <br class="seperator_break">
+      <div class="module">
+        <h5>Cities in Slovakia</h5>
+        <div class="mo_container">
+          <ul class="list">
+            <li>Banská Bystrica</li>
+            <li>Banská Štiavnica</li>
+            <li>Bardejov</li>
+            <li>Bojnice</li>
+            <li>Bratislava</li>
+            <li>Brezno</li>
+            <li>Brezová pod Bradlom</li>
+            <li>Bytca</li>
+            <li>Bánovce nad Bebravou</li>
+            <li>Detva</li>
+            <li>Dobšiná</li>
+            <li>Dolný Kubín</li>
+            <li>Dubnica nad Váhom</li>
+            <li>Dudince</li>
+            <li>Dunajská Streda</li>
+            <li>Filakovo</li>
+            <li>Galanta</li>
+            <li>Gbely</li>
+            <li>Gelnica</li>
+            <li>Giraltovce</li>
+            <li>Handlová</li>
+            <li>Hanušovce nad Toplou</li>
+            <li>Hlohovec</li>
+            <li>Hnúšta</li>
+            <li>Holíc</li>
+            <li>Hrinová</li>
+            <li>Humenné</li>
+            <li>Hurbanovo</li>
+            <li>Ilava</li>
+            <li>Jelšava</li>
+            <li>Kežmarok</li>
+            <li>Kolárovo</li>
+            <li>Komárno</li>
+            <li>Košice</li>
+            <li>Kremnica</li>
+            <li>Krompachy</li>
+            <li>Krupina</li>
+            <li>Krásno nad Kysucou</li>
+            <li>Královský Chlmec</li>
+            <li>Kysucké Nové Mesto</li>
+            <li>Leopoldov</li>
+            <li>Levice</li>
+            <li>Levoca</li>
+            <li>Lipany</li>
+            <li>Liptovský Hrádok</li>
+            <li>Liptovský Mikuláš</li>
+            <li>Lucenec</li>
+            <li>Malacky</li>
+            <li>Martin</li>
+            <li>Medzev</li>
+            <li>Medzilaborce</li>
+            <li>Michalovce</li>
+            <li>Modra</li>
+            <li>Modrý Kamen</li>
+            <li>Moldava nad Bodvou</li>
+            <li>Myjava</li>
+            <li>Nemšová</li>
+            <li>Nitra</li>
+            <li>Nová Bana</li>
+            <li>Nová Dubnica</li>
+            <li>Nováky</li>
+            <li>Nové Mesto nad Váhom</li>
+            <li>Nové Zámky</li>
+            <li>Námestovo</li>
+            <li>Partizánske</li>
+            <li>Pezinok</li>
+            <li>Pieštany</li>
+            <li>Podolínec</li>
+            <li>Poltár</li>
+            <li>Poprad</li>
+            <li>Považská Bystrica</li>
+            <li>Prešov</li>
+            <li>Prievidza</li>
+            <li>Púchov</li>
+            <li>Rajec</li>
+            <li>Rajecké Teplice</li>
+            <li>Revúca</li>
+            <li>Rimavská Sobota</li>
+            <li>Rožnava</li>
+            <li>Ružomberok</li>
+            <li>Sabinov</li>
+            <li>Senec</li>
+            <li>Senica</li>
+            <li>Sered</li>
+            <li>Secovce</li>
+            <li>Skalica</li>
+            <li>Sliac</li>
+            <li>Sládkovicovo</li>
+            <li>Snina</li>
+            <li>Sobrance</li>
+            <li>Spišská Belá</li>
+            <li>Spišská Nová Ves</li>
+            <li>Spišská Stará Ves</li>
+            <li>Spišské Podhradie</li>
+            <li>Spišské Vlachy</li>
+            <li>Stará Turá</li>
+            <li>Stará Lubovna</li>
+            <li>Stropkov</li>
+            <li>Strážske</li>
+            <li>Stupava</li>
+            <li>Svidník</li>
+            <li>Svit</li>
+            <li>Svätý Jur</li>
+            <li>Tisovec</li>
+            <li>Tlmace</li>
+            <li>Topolcany</li>
+            <li>Tornala</li>
+            <li>Trebišov</li>
+            <li>Trencianske Teplice</li>
+            <li>Trencín</li>
+            <li>Trnava</li>
+            <li>Trstená</li>
+            <li>Turzovka</li>
+            <li>Turcianske Teplice</li>
+            <li>Tvrdošín</li>
+            <li>Velké Kapušany</li>
+            <li>Velký Krtíš</li>
+            <li>Velký Meder</li>
+            <li>Velký Šariš</li>
+            <li>Vranov nad Toplou</li>
+            <li>Vrbové</li>
+            <li>Vráble</li>
+            <li>Vrútky</li>
+            <li>Vysoké Tatry</li>
+            <li>Zlaté Moravce</li>
+            <li>Zvolen</li>
+            <li>Cadca</li>
+            <li>Cierna nad Tisou</li>
+            <li>Šahy</li>
+            <li>Šamorín</li>
+            <li>Šala</li>
+            <li>Šaštín-Stráže</li>
+            <li>Štúrovo</li>
+            <li>Šurany</li>
+            <li>Žarnovica</li>
+            <li>Želiezovce</li>
+            <li>Žiar nad Hronom</li>
+            <li>Žilina</li>
+          </ul>
+        </div>
+      </div>

@@ -1,0 +1,71 @@
+      <div class="module">
+        <h5>About Norway</h5>
+        <div class="mo_container">
+          <p>Norway is currently one of the world's wealthiest countries, as it has extensive reserves of minerals, natural gases and oil. There are many opportunities in Norway for foreign exporters of telecommunications, biotechnology and consumer goods businesses and it has a particularly strong trading relationship with the United Kingdom.</p>
+          <p>Norway is not part of the European Union, as it has rejected a membership in two past referenda, although it maintains close and friendly ties to its member countries. Norway successfully maintains a mixed-market economy, whereby both the private sector and the government play central roles in directing the economy.</p>
+          <p>Whether you want to send personal mail to Norway, or a larger courier of business goods, Urban Drop offers a variety of parcel delivery options tailored to your needs, budget and delivery schedule. We work with the world's most reputable courier companies, such as FedEx, DHL, UPS and Parcel Force, to name a few. We will compare all of the available delivery options for you, saving you the time and hassle of trawling through them all yourself. We will make sure that your package is picked-up from your chosen UK address and we will then oversee the entire delivery process to ensure that it reaches its final destination safely and on time. Urban Drop will take the worry out of sending your items with the National postal service and will make sure that nothing is misplaced, delayed or damaged. Posten is the national postal service used throughout Norway and is the country's largest workplace, with regards to the number of employees.</p>
+          <p>Norway is approximately 700 miles from the UK, which can take around 2 hours on a plane. Your mail will also have to travel overland at either end of its plane journey. It's recommended that you carefully package your goods to safely withstand such a long-haul journey. You should consider using a cardboard box and padding, such as polystyrene. You should clearly write the destination address on the front of your parcel to make sure we know exactly where it's going and you should also include a return address on the back. Because Norway is outside of the European Union, you may be required to fill out a customs declaration form and attach it to the front, to disclose all of the items included. Some goods are forbidden from export/import, such as flammable liquids, explosives and guns, so you should read the following prohibited items list carefully to avoid any problems.</p>
+          <p>Public transport systems throughout Norway are not quite as highly developed as in other European countries, due to its narrow shape and low population density (currently just below 5 million people over 148,000 square miles). However, major spending by the government will aim to improve the transport infrastructure over the next 10 years.</p>
+          <strong><p>Sending internationally with Zap My Parcel is quick, reliable and low cost.</p>
+<p>With our years of experience in parcel delivery we are not only the best choice on the market but also the most reliable.</p>
+<p>Here at Zap My Parcel we use reliable international courier companies that can do everything from small envelope international deliveries to large bulky items, we can do from an A4 envelope size at 0.5kg to 1kg, 5kg, 10kg 15kg, 20kg, 25kg and even above!</p>
+<p>A few quick things to remember when sending a parcel internationally is to make sure the content of your parcel adheres to our prohibited and restricted items list, that you have correctly filled out, printed all forms and labels needed and you have made sure you check for any customs charges, restrictions or surcharges that may apply to this country. </p>
+<p>If this is not properly attended to it may cause a delay in the arrival of your parcel.</p> </strong>
+        </div>
+      </div>
+      <br class="seperator_break">
+      <div class="module">
+        <h5>Cities in Norway</h5>
+        <div class="mo_container">
+          <ul class="list">
+            <li>Alta</li>
+            <li>Askim</li>
+            <li>Brekstad</li>
+            <li>Brevik</li>
+            <li>Brumunddal</li>
+            <li>Bryne</li>
+            <li>Brønnøysund</li>
+            <li>Drøbak</li>
+            <li>Elverum</li>
+            <li>Fauske</li>
+            <li>Fagernes</li>
+            <li>Finnsnes</li>
+            <li>Fosnavåg</li>
+            <li>Førde</li>
+            <li>Hokksund</li>
+            <li>Honningsvåg</li>
+            <li>Jørpeland</li>
+            <li>Kirkenes</li>
+            <li>Kolvereid</li>
+            <li>Kopervik</li>
+            <li>Kragerø</li>
+            <li>Langesund</li>
+            <li>Leirvik</li>
+            <li>Leknes</li>
+            <li>Levanger</li>
+            <li>Lillesand</li>
+            <li>Lillestrøm</li>
+            <li>Lyngdal</li>
+            <li>Mo i Rana</li>
+            <li>Mosjøen</li>
+            <li>Mysen</li>
+            <li>Måløy</li>
+            <li>Odda</li>
+            <li>Otta</li>
+            <li>Rjukan</li>
+            <li>Sandnessjøen</li>
+            <li>Sandvika</li>
+            <li>Sauda</li>
+            <li>Ski</li>
+            <li>Skudeneshavn</li>
+            <li>Sortland</li>
+            <li>Stathelle</li>
+            <li>Stavern[7]</li>
+            <li>Tananger[8]</li>
+            <li>Ulsteinvik</li>
+            <li>Verdalsøra</li>
+            <li>Åkrehamn</li>
+            <li>Åndalsnes</li>
+          </ul>
+        </div>
+      </div>

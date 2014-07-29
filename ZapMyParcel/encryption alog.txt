@@ -1,0 +1,12 @@
+
+insert into info(ccard) values(encode('123589789', 'vipul'))
+select decode(ccard, 'vipul') from info
+
+
+INSERT INTO info(ccard)VALUES(DES_ENCRYPT('text',"123Vipul"));
+
+SELECT DES_DECRYPT('text',ccard) FROM info where id =3 ;
+
+INSERT INTO info (ccard)VALUES (AES_ENCRYPT("htims","vipul123"));
+
+SELECT AES_DECRYPT(ccard,"vipul123") FROM info where id  =5 ;

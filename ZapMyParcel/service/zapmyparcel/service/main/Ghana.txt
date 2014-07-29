@@ -1,0 +1,72 @@
+      <div class="module">
+        <h5>About Ghana</h5>
+        <div class="mo_container">
+          <p>In 2011 Ghana was named as the world's fastest growing economy, as seen from recent data from the International Monetary Fund and throughout 2011 its economic growth was estimated at over 20%. Ghana is rich in natural export products such as gold, oil, diamond and timber and is currently the earth's 2nd largest producer of cocoa.</p>
+          <p>Ghana has a middle income economy, yet it still receives regular foreign aid from countries such as the UK. Ghana also relies on many foreign companies to maintain many of its infrastructural developments, such as transport and housing projects.</p>
+          <p>Whether you need to send foreign aid goods to Ghana, or a large shipment of goods for business purposes, then Urban Drop will find you the best delivery option available. We work with some of the world's most reputable parcel delivery companies and we will compare all of the delivery options for you, with your timeline and budget in mind. Urban Drop works with companies such as DHL, FedEx, UPS and Parcel Force amongst many others. We will then make sure that your packages are picked up from your chosen address in the UK and safely transported and delivered to their final destination, on schedule.</p>
+          <p>Ghana is also a popular tourist destination for many Brits and holiday makers from all over the world. The wise use of the English Language and its economic stability make it an attractive South African destination. Ghana also boasts white sandy beaches, a hot climate and several UNESCO World heritage sites and National Parks.</p>
+          <p>Ghana is over 3000 miles from the UK, which can take your parcel over 6.5 hours on a plane, in addition to many additional miles overland to reach its final address. To protect your items on such a long journey you should be sure to package them carefully. A strong-walled cardboard box is recommended, in addition to padding to surround any breakable items. You should write the destination address clearly on the front on your parcel with black ink and also include a return address on the back. Ghana is outside of the European customs area and you will therefore need to fill out a customs declaration form to disclose the items you are posting. Correctly doing this will avoid any unnecessary delays at Ghana's border control. Some items should not be posted as they are forbidden from entering Ghana, such as gasses, explosives and guns, so please read the following prohibited items list carefully.</p>
+          <p>Ghana is divided into 138 districts, which are grouped into 10 administrative regions, and is currently home to a total of over 24 million people. Ghana Post is the national postal service used throughout the country, which has admittedly improved the postal system's performance over recent years. However, sometimes, when using any national delivery service, items can accidentally get lost or delayed. If you want to send your parcel completely hassle and worry-free then you should trust an internationally reliable parcel delivery company.</p>
+          <strong><p>Sending internationally with Zap My Parcel is quick, reliable and low cost.</p>
+<p>With our years of experience in parcel delivery we are not only the best choice on the market but also the most reliable.</p>
+<p>Here at Zap My Parcel we use reliable international courier companies that can do everything from small envelope international deliveries to large bulky items, we can do from an A4 envelope size at 0.5kg to 1kg, 5kg, 10kg 15kg, 20kg, 25kg and even above!</p>
+<p>A few quick things to remember when sending a parcel internationally is to make sure the content of your parcel adheres to our prohibited and restricted items list, that you have correctly filled out, printed all forms and labels needed and you have made sure you check for any customs charges, restrictions or surcharges that may apply to this country. </p>
+<p>If this is not properly attended to it may cause a delay in the arrival of your parcel.</p> </strong>
+        </div>
+      </div>
+      <br class="seperator_break">
+      <div class="module">
+        <h5>Cities in  Ghana</h5>
+        <div class="mo_container">
+          <ul class="list">
+            <li>Accra</li>
+            <li>Kumasi</li>
+            <li>Tamale</li>
+            <li>Sekondi-Takoradi</li>
+            <li>Ashiaman</li>
+            <li>Tema</li>
+            <li>Teshie</li>
+            <li>Cape Coast</li>
+            <li>Obuasi</li>
+            <li>Madina</li>
+            <li>Koforidua</li>
+            <li>Wa</li>
+            <li>Techiman</li>
+            <li>Nungua</li>
+            <li>Tema New Town</li>
+            <li>Sunyani</li>
+            <li>Ho</li>
+            <li>Bawku</li>
+            <li>Dome</li>
+            <li>Bolgatanga</li>
+            <li>Lashibi</li>
+            <li>Tafo</li>
+            <li>Gbawe</li>
+            <li>Agona Swedru</li>
+            <li>Ejura</li>
+            <li>Berekum</li>
+            <li>Taifa</li>
+            <li>Aflao</li>
+            <li>Nkawkaw</li>
+            <li>Oduponkpehe</li>
+            <li>Winneba</li>
+            <li>Akim Oda</li>
+            <li>Yendi</li>
+            <li>Hohoe</li>
+            <li>Adenta East</li>
+            <li>Mampong</li>
+            <li>Asamankese</li>
+            <li>Kintampo</li>
+            <li>Suhum</li>
+            <li>Tarkwa</li>
+            <li>Konongo</li>
+            <li>Nsawam</li>
+            <li>Prestea</li>
+            <li>Agogo</li>
+            <li>Wenchi</li>
+            <li>Effiakuma</li>
+            <li>Anloga</li>
+            <li>Savelugu</li>
+          </ul>
+        </div>
+      </div>

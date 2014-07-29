@@ -1,0 +1,311 @@
+      <div class="module">
+        <h5>About USA</h5>
+        <div class="mo_container">
+          <p>The United States of America (USA) is the world's 3rd largest country, with regards to its land area and total population; it's over 3.9 million square miles and is home to over 310 million inhabitants. It attracts people from all over the world with its culturally diverse way of life and highly developed economy. The USA and the UK have a strong trading relationship, and the USA is currently the world's largest importer of foreign goods. Its main import commodity in 2010 was oil.</p>
+          <p>You may have the need to send a large shipment of goods to the USA for business trade purposes, or you may need to send smaller personal items to friends or family; either way, Urban Drop will organise and oversee the entire delivery process. We work with some of the world's leading parcel delivery companies such as FedEx, Parcel Force, DHL and UPS, to name a few. We will compare all of the available courier options, with regards to your required delivery timeline and budget, and ensure that your package is picked up from your specified UK address and delivered safely to its final destination, on schedule.</p>
+          <p>The USA has strict import regulations and items such as firearms, food, alcohol and plants are forbidden, amongst many others. You should carefully read the following prohibited items list to ensure that your package will not be rejected at the USA border. You should fill out and attach a customs declaration form to the front of your parcel to disclose all of the items contained in your parcel, and you should note that any parcel may be subject to search.</p>
+          <p>You should write the destination address clearly on the front to make sure that there is no confusion along the way and it's recommended that you also include a return address on the back. The USA is divided into 50 states and thousands of cities, towns and villages, therefore, you should make sure that you have the correct and full address, including the ZIP code (post-code).</p>
+          <p>If you have a strict delivery timescale then you should take into account the USA and UK's public holidays, as they might delay the delivery schedule by a day or two. America enjoys the following holidays, to name a few: Martin Luther King Jnr. Day (3rd Monday in January), Washington's Birthday / President's Day (3rd Monday in February), Independence Day (4th of July) and Thanksgiving Day (4th Thursday in November).</p>
+          
+          <strong><p>Sending internationally with Zap My Parcel is quick, reliable and low cost.</p>
+<p>With our years of experience in parcel delivery we are not only the best choice on the market but also the most reliable.</p>
+<p>Here at Zap My Parcel we use reliable international courier companies that can do everything from small envelope international deliveries to large bulky items, we can do from an A4 envelope size at 0.5kg to 1kg, 5kg, 10kg 15kg, 20kg, 25kg and even above!</p>
+<p>A few quick things to remember when sending a parcel internationally is to make sure the content of your parcel adheres to our prohibited and restricted items list, that you have correctly filled out, printed all forms and labels needed and you have made sure you check for any customs charges, restrictions or surcharges that may apply to this country. </p>
+<p>If this is not properly attended to it may cause a delay in the arrival of your parcel.</p> </strong>
+
+
+        </div>
+      </div>
+      <br class="seperator_break">
+      <div class="module">
+        <h5>Cities in USA</h5>
+        <div class="mo_container">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td align="left" valign="top"><ul class="list">
+                  <li>New York</li>
+                  <li>Los Angeles</li>
+                  <li>Chicago</li>
+                  <li>Houston</li>
+                  <li>Philadelphia</li>
+                  <li>Phoenix</li>
+                  <li>San Antonio</li>
+                  <li>San Diego</li>
+                  <li>Dallas</li>
+                  <li>San Jose</li>
+                  <li>Jacksonville</li>
+                  <li>Indianapolis</li>
+                  <li>San Francisco</li>
+                  <li>Austin</li>
+                  <li>Columbus</li>
+                  <li>Fort Worth</li>
+                  <li>Louisville</li>
+                  <li>Charlotte</li>
+                  <li>Detroit</li>
+                  <li>El Paso</li>
+                  <li>Memphis</li>
+                  <li>Baltimore</li>
+                  <li>Boston</li>
+                  <li>Seattle</li>
+                  <li>Washington</li>
+                  <li>Nashville </li>
+                  <li>Denver </li>
+                  <li>Milwaukee</li>
+                  <li>Portland</li>
+                  <li>Las Vegas</li>
+                  <li>Oklahoma City</li>
+                  <li>Albuquerque</li>
+                  <li>Tucson</li>
+                  <li>Fresno</li>
+                  <li>Sacramento</li>
+                  <li>Long Beach</li>
+                  <li>Kansas City</li>
+                  <li>Mesa</li>
+                  <li>Virginia Beach </li>
+                  <li>Atlanta</li>
+                  <li>Colorado Springs</li>
+                  <li>Omaha</li>
+                  <li>Raleigh</li>
+                  <li>Miami</li>
+                  <li>Cleveland</li>
+                  <li>Tulsa</li>
+                  <li>Oakland</li>
+                  <li>Minneapolis</li>
+                  <li>Wichita</li>
+                  <li>Arlington</li>
+                  <li>Bakersfield</li>
+                  <li>New Orleans</li>
+                  <li>Honolulu </li>
+                  <li>Anaheim</li>
+                  <li>Tampa</li>
+                  <li>Aurora</li>
+                  <li>Santa Ana</li>
+                  <li>Saint Louis </li>
+                  <li>Pittsburgh</li>
+                  <li>Corpus Christi</li>
+                  <li>Riverside</li>
+                  <li>Cincinnati</li>
+                  <li>Lexington</li>
+                  <li>Anchorage</li>
+                  <li>Stockton</li>
+                  <li>Toledo</li>
+                  <li>Saint Paul</li>
+                  <li>Newark</li>
+                  <li>Greensboro</li>
+                </ul></td>
+              <td align="left" valign="top"><ul class="list">
+                  <li>Buffalo</li>
+                  <li>Plano</li>
+                  <li>Lincoln</li>
+                  <li>Henderson</li>
+                  <li>Fort Wayne</li>
+                  <li>Jersey City</li>
+                  <li>Saint Petersburg</li>
+                  <li>Chula Vista</li>
+                  <li>Norfolk </li>
+                  <li>Orlando</li>
+                  <li>Chandler</li>
+                  <li>Laredo</li>
+                  <li>Madison</li>
+                  <li>Winston-Salem</li>
+                  <li>Lubbock</li>
+                  <li>Baton Rouge</li>
+                  <li>Durham</li>
+                  <li>Garland</li>
+                  <li>Glendale</li>
+                  <li>Reno</li>
+                  <li>Hialeah</li>
+                  <li>Chesapeake </li>
+                  <li>Scottsdale</li>
+                  <li>North Las Vegas</li>
+                  <li>Irving</li>
+                  <li>Fremont</li>
+                  <li>Irvine</li>
+                  <li>Birmingham</li>
+                  <li>Rochester</li>
+                  <li>San Bernardino</li>
+                  <li>Spokane</li>
+                  <li>Gilbert</li>
+                  <li>Arlington </li>
+                  <li>Montgomery</li>
+                  <li>Boise</li>
+                  <li>Richmond </li>
+                  <li>Des Moines</li>
+                  <li>Modesto</li>
+                  <li>Fayetteville</li>
+                  <li>Shreveport</li>
+                  <li>Akron</li>
+                  <li>Tacoma</li>
+                  <li>Aurora</li>
+                  <li>Oxnard</li>
+                  <li>Fontana</li>
+                  <li>Yonkers</li>
+                  <li>Augusta </li>
+                  <li>Mobile</li>
+                  <li>Little Rock</li>
+                  <li>Moreno Valley</li>
+                  <li>Glendale</li>
+                  <li>Amarillo</li>
+                  <li>Huntington Beach</li>
+                  <li>Columbus</li>
+                  <li>Grand Rapids</li>
+                  <li>Salt Lake City</li>
+                  <li>Tallahassee</li>
+                  <li>Worcester</li>
+                  <li>Newport News </li>
+                  <li>Huntsville</li>
+                  <li>Knoxville</li>
+                  <li>Providence</li>
+                  <li>Santa Clarita</li>
+                  <li>Grand Prairie</li>
+                  <li>Brownsville</li>
+                  <li>Jackson</li>
+                  <li>Overland Park</li>
+                  <li>Garden Grove</li>
+                  <li>Santa Rosa</li>
+                </ul></td>
+              <td align="left" valign="top"><ul class="list">
+                  <li>Chattanooga</li>
+                  <li>Oceanside</li>
+                  <li>Fort Lauderdale</li>
+                  <li>Rancho Cucamonga</li>
+                  <li>Port Saint Lucie</li>
+                  <li>Ontario</li>
+                  <li>Vancouver</li>
+                  <li>Tempe</li>
+                  <li>Springfield</li>
+                  <li>Lancaster</li>
+                  <li>Eugene</li>
+                  <li>Pembroke Pines</li>
+                  <li>Salem</li>
+                  <li>Cape Coral</li>
+                  <li>Peoria</li>
+                  <li>Sioux Falls</li>
+                  <li>Springfield</li>
+                  <li>Elk Grove</li>
+                  <li>Rockford</li>
+                  <li>Palmdale</li>
+                  <li>Corona</li>
+                  <li>Salinas</li>
+                  <li>Pomona</li>
+                  <li>Pasadena</li>
+                  <li>Joliet</li>
+                  <li>Paterson</li>
+                  <li>Kansas City</li>
+                  <li>Torrance</li>
+                  <li>Syracuse</li>
+                  <li>Bridgeport</li>
+                  <li>Hayward</li>
+                  <li>Fort Collins</li>
+                  <li>Escondido</li>
+                  <li>Lakewood</li>
+                  <li>Naperville</li>
+                  <li>Dayton</li>
+                  <li>Hollywood</li>
+                  <li>Sunnyvale</li>
+                  <li>Alexandria </li>
+                  <li>Mesquite</li>
+                  <li>Hampton </li>
+                  <li>Pasadena</li>
+                  <li>Orange</li>
+                  <li>Savannah</li>
+                  <li>Cary</li>
+                  <li>Fullerton</li>
+                  <li>Warren</li>
+                  <li>Clarksville</li>
+                  <li>McKinney</li>
+                  <li>McAllen</li>
+                  <li>New Haven</li>
+                  <li>Sterling Heights</li>
+                  <li>West Valley City</li>
+                  <li>Columbia</li>
+                  <li>Killeen</li>
+                  <li>Topeka</li>
+                  <li>Thousand Oaks</li>
+                  <li>Cedar Rapids</li>
+                  <li>Olathe</li>
+                  <li>Elizabeth</li>
+                  <li>Waco</li>
+                  <li>Hartford</li>
+                  <li>Visalia</li>
+                  <li>Gainesville</li>
+                  <li>Simi Valley</li>
+                  <li>Stamford</li>
+                  <li>Bellevue</li>
+                  <li>Concord</li>
+                  <li>Miramar</li>
+                </ul></td>
+              <td align="left" valign="top"><ul class="list">
+                  <li>Coral Springs</li>
+                  <li>Lafayette</li>
+                  <li>Charleston</li>
+                  <li>Carrollton</li>
+                  <li>Roseville</li>
+                  <li>Thornton</li>
+                  <li>Beaumont</li>
+                  <li>Allentown</li>
+                  <li>Surprise</li>
+                  <li>Evansville</li>
+                  <li>Abilene</li>
+                  <li>Frisco</li>
+                  <li>Independence</li>
+                  <li>Santa Clara</li>
+                  <li>Springfield</li>
+                  <li>Vallejo</li>
+                  <li>Victorville</li>
+                  <li>Athens </li>
+                  <li>Peoria</li>
+                  <li>Lansing</li>
+                  <li>Ann Arbor</li>
+                  <li>El Monte</li>
+                  <li>Denton</li>
+                  <li>Berkeley</li>
+                  <li>Provo</li>
+                  <li>Downey</li>
+                  <li>Midland</li>
+                  <li>Norman</li>
+                  <li>Waterbury</li>
+                  <li>Costa Mesa</li>
+                  <li>Inglewood</li>
+                  <li>Manchester</li>
+                  <li>Murfreesboro</li>
+                  <li>Columbia</li>
+                  <li>Elgin</li>
+                  <li>Clearwater</li>
+                  <li>Miami Gardens</li>
+                  <li>Rochester</li>
+                  <li>Pueblo</li>
+                  <li>Lowell</li>
+                  <li>Wilmington</li>
+                  <li>Arvada</li>
+                  <li>San Buenaventura (Ventura)</li>
+                  <li>Westminster</li>
+                  <li>West Covina</li>
+                  <li>Gresham</li>
+                  <li>Fargo</li>
+                  <li>Norwalk</li>
+                  <li>Carlsbad</li>
+                  <li>Fairfield</li>
+                  <li>Cambridge</li>
+                  <li>Wichita Falls</li>
+                  <li>High Point</li>
+                  <li>Billings</li>
+                  <li>Green Bay</li>
+                  <li>West Jordan</li>
+                  <li>Richmond</li>
+                  <li>Murrieta</li>
+                  <li>Burbank</li>
+                  <li>Palm Bay</li>
+                  <li>Everett</li>
+                  <li>Flint</li>
+                  <li>Antioch</li>
+                  <li>Erie</li>
+                  <li>South Bend</li>
+                  <li>Daly City</li>
+                  <li>Centennial</li>
+                  <li>Temecula</li>
+                </ul></td>
+            </tr>
+          </table>
+        </div>
+      </div>
